@@ -8,4 +8,4 @@ This is Student Activity Center designed to help the student of Engineering Coll
 5. if you want to change something in css and javascripts make sure to run `gulp` in terminal and then change it.
 
 ##Licence
-Copyright (c) 2016, ECB SAC, MIT Licene.
+Copyright (c) 2016, ECB SAC, MIT Licence.
